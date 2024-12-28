@@ -48,5 +48,5 @@ class Solution:
         return count
 
 
-s = Solution('./Day4/input.txt')
+s = Solution('./2024/Day4/input.txt')
 print(s.count_x_mas_patterns())

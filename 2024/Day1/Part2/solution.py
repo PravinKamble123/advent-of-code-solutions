@@ -33,7 +33,7 @@ class Solution:
         return ans
 
 
-sol = Solution(f'./Day1/Part2/input.txt')
+sol = Solution(f'./2024/Day1/Part2/input.txt')
 ans = sol.ans()
 
 print(ans)

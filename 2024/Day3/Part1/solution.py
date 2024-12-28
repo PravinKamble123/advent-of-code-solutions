@@ -31,7 +31,7 @@ class Solution:
         
 
 
-solution = Solution('./Day3/Part1/input.txt')
+solution = Solution('./2024/Day3/Part1/input.txt')
 ans = solution.ans()
 
 print("Answer is ", ans)

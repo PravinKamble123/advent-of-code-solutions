@@ -58,5 +58,5 @@ class Solution:
 
 
 
-s = Solution('./Day4/input.txt')
+s = Solution('./2024/Day4/input.txt')
 print(s.count_the_occurence())

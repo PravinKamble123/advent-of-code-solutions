@@ -64,7 +64,7 @@ class Solution:
         return total
 
 
-solution = Solution('./Day2/Part2/input.txt')
+solution = Solution('./2024/Day2/Part2/input.txt')
 
 re = solution.ans()
 print('ans: ', re)

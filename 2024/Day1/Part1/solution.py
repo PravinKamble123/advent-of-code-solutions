@@ -1,7 +1,7 @@
 
 from collections import deque
 
-with open(r'./Day1/Part1/input.txt') as file:
+with open(r'./2024/Day1/Part1/input.txt') as file:
     content = file.read().strip().splitlines()
     
     arr1 = deque()
